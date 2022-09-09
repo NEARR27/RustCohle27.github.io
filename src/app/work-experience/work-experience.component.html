@@ -1,1 +1,13 @@
-<p>work-experience works!</p>
+<ul *ngFor="let work of workExperience">
+   <li> {{work.fecha}} -  {{work.ubicacion}} <br>
+    {{work.puesto}} <br>
+    {{work.empresa}} <br>
+    <h4>Logros:</h4>
+    <ul *ngFor="let logro of work.logros">
+        <li>
+            {{logro.descripcion}}
+
+        </li>
+    </ul>
+ </li>
+</ul>
