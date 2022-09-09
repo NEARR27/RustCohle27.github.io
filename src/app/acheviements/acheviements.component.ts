@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AcheviementsComponent implements OnInit {
 
-  achievements: Array<any> = [];
+  achievements: Array<any> = []; 
 
   constructor() { }
 
