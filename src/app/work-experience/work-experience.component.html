@@ -1,9 +1,9 @@
 <ul *ngFor="let work of workExperience">
-   <li> {{work.fecha}} -  {{work.ubicacion}} <br>
+   <li id="datos"> {{work.fecha}} | {{work.ubicacion}} <br>
     {{work.puesto}} <br>
     {{work.empresa}} <br>
     <h4>Logros:</h4>
-    <ul *ngFor="let logro of work.logros">
+    <ul *ngFor="let logro of work.logros" id="logro">
         <li>
             {{logro.descripcion}}
 

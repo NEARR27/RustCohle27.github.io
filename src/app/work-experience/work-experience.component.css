@@ -1,0 +1,20 @@
+ul #datos{
+    font-size: 3rem;
+    list-style: none;
+    margin-left: 15rem;
+    margin-top: 5rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+ul #logro{
+    font-size: 3rem;
+    list-style-type: disc;
+    margin-left: 6rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h4{
+    font-size: 3rem;
+    margin-left: 3rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

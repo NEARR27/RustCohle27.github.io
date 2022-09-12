@@ -7,7 +7,7 @@
 
 html {
     font-size: 62.5%;
-    background-color: rgb(86, 125, 241);
+    background-color: rgb(242, 242, 246);
 }
 
 body {
@@ -18,14 +18,122 @@ body {
 }
 
 header {
-    background-color: rgb(162, 244, 167);
+    background-color: rgb(173, 208, 251);
     width: 130rem;
+    height: 15rem;
     margin: 0 auto;
     text-align: center;
 }
 
 main {
-    background-color: aliceblue;
+    background-color: rgb(131, 217, 245);
     width: 130rem;
+    height: 210rem;
+    padding-top: 1rem;
     margin: 0 auto;
+    
+}
+
+.columna1{
+    padding: 10px; float: left; width: 45%; text-align: justify;
+}
+
+.columna2{
+    padding: 10px; float: right; width: 45%; text-align: justify;
+    
+}
+
+#work{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 4rem;
+    width: 11rem;
+    height: 11rem;
+    margin-left: 3rem;
+    margin-top: 4rem;
+    border-right: 3rem;
+    border-top: 19rem;
+    padding-top: 6rem;
+    padding-left: 3rem;
+    padding-right: 5rem;
+    margin-bottom: 2rem;
+}
+
+
+
+body #der .derecha{
+    margin-left:220px;
+margin-right:20px;
+margin-top:10px;
+background-color:#ffffbb;
+padding-top: 12rem;
+}
+
+#education{
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 4rem;
+    width: 11rem;
+    height: 11rem;
+    margin-left: 3rem;
+    margin-top: 4rem;
+    border-right: 3rem;
+    border-top: 19rem;
+    padding-top: 6rem;
+    padding-left: 3rem;
+    padding-right: 5rem;
+    margin-bottom: 2rem;
+
+}
+
+#skills{
+    font-size: 4rem;
+    margin-top: 6rem;
+    padding-top: 6rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 65rem;
+   
+}
+
+#achie{
+    font-size: 4rem;
+    margin-top: 5rem;
+    padding-top: 10rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 65rem;
+
+}
+
+#lan{
+    font-size: 4rem;
+    margin-top: 5rem;
+    padding-top: 10rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 65rem;
+}
+
+#interest{
+    font-size: 4rem;
+    margin-top: 5rem;
+    padding-top: 10rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 65rem;
+}
+
+.container {
+    background-color: rgb(192, 192, 192);
+    width: 80%;
+    border-radius: 15px;
+}
+
+.rellena{
+    width: 4rem;
+    margin-left: 3rem;
+    
+}
+
+.skilltitle{
+    font-size: 2rem;
+    padding-bottom: 1.3rem;
+    padding-left: 60rem;
+    padding-top: 2rem;
 }

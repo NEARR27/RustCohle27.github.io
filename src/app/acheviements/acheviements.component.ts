@@ -16,7 +16,7 @@ export class AcheviementsComponent implements OnInit {
     let achievent1 = {
       titulo: "Certificado master en Angular",
       ano: "2022",
-      descripcion: "Otorgado por Facebook",
+      descripcion: "Otorgado por Google",
 
     };
 
