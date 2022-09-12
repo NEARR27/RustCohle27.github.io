@@ -1,8 +1,8 @@
-<div>
+<div id="datos">
     <ul *ngFor="let achievent of achievements">
         <li>
-            {{achievent.titulo}} | {{achievent.ano}} <br>
-            {{achievent.descripcion}}
+            <p id="titulo">{{achievent.titulo}}</p> | {{achievent.ano}} <br>
+            <p id="descripcion">{{achievent.descripcion}}</p>
 
         </li>
     </ul>
