@@ -6,6 +6,20 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-li p{
-    font-size: 2rem;
+li #fecha{
+    font-size: 1.6rem;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+li #carrera{
+    padding-top: 0.01px;
+    font-size: 3rem;
+    padding-top: 0px;
+    font-weight: bolder;
+}
+
+li #uni{
+    font-size: 2.3rem;
 }
