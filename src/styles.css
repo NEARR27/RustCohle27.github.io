@@ -7,7 +7,7 @@
 
 html {
     font-size: 62.5%;
-    background-color: rgb(86, 125, 241);
+    background-color: rgb(225, 229, 242);
 }
 
 body {
@@ -18,14 +18,14 @@ body {
 }
 
 header {
-    background-color: rgb(162, 244, 167);
+    background-color: rgb(207, 207, 207);
     width: 130rem;
     margin: 0 auto;
     text-align: center;
 }
 
 main {
-    background-color: aliceblue;
+    background-color: rgb(243, 241, 243);
     width: 130rem;
     margin: 0 auto;
 }
