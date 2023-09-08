@@ -53,6 +53,14 @@ export class SkillsComponent implements OnInit {
       skill : "Time Management",
     };
 
+    let skill11 = {
+      skill: "https://www.kaggle.com/learn/certification/cristianteran/pandas"
+    }
+
+    let skill12 = {
+      skill: " https://www.kaggle.com/learn/certification/cristianteran/python"
+    }
+
     this.skills.push(skill1);
     this.skills.push(skill2);
     this.skills.push(skill3);
@@ -63,6 +71,8 @@ export class SkillsComponent implements OnInit {
     this.skills.push(skill8);
     this.skills.push(skill9);
     this.skills.push(skill10);
+    this.skill.push(skill11);
+    this.skill.push(skill12);
   }
 
 }
