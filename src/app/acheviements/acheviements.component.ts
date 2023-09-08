@@ -48,7 +48,7 @@ export class AcheviementsComponent implements OnInit {
 
     };
 
-    let achievent5 = {
+    let achievent6 = {
       titulo: "Certificado Python Pandas",
       ano: "2023",
       descripcion: "https://www.kaggle.com/learn/certification/cristianteran/pandas",
